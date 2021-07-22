@@ -1,0 +1,59 @@
+h1{
+  color:white;
+  text-align:center;
+  font-family: cursive
+}
+
+body{
+  background-color:cornflowerblue;
+}
+
+h2{
+  color:white;
+  text-align:center;
+  font-family: cursive
+}
+
+.white{
+  color:white;
+  font-family: cursive;
+  text-align:center;
+}
+
+.Blue{
+  background-color: lightblue
+}
+
+.love{
+   color:white;
+  font-family: cursive;
+  text-align:left;
+}
+
+.Green{
+background-color:greenyellow;
+}
+
+.Purple{
+  background-color: purple;
+ 
+}
+
+.Yellow{
+  background-color: yellow
+}
+.Pazaz{
+  color:darkmagenta;
+  font-family:cursive;
+}
+
+.Coulman{
+  float: left;
+  width:50%;
+}
+
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}
